@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+html {
+    position: relative;
+    height: 100%;
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+
+body {
+    margin: 0 0 30px;
+    background-image: url('./assets/images/background.jpg');
+    background-size: 100% 100%;
+    overflow-x: hidden;
+    height: 100%
+}
